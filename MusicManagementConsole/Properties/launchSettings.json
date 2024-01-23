@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MusicManagementConsole": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

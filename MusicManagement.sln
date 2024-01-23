@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicManagement", "MusicManagement\MusicManagement.csproj", "{6A63F273-C59E-4D27-AF06-9F8B307DF8D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicManagementConsole", "MusicManagementConsole\MusicManagementConsole.csproj", "{EAC41D5E-CDEF-48C1-91B5-19381E89838B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A63F273-C59E-4D27-AF06-9F8B307DF8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A63F273-C59E-4D27-AF06-9F8B307DF8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A63F273-C59E-4D27-AF06-9F8B307DF8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A63F273-C59E-4D27-AF06-9F8B307DF8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC41D5E-CDEF-48C1-91B5-19381E89838B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC41D5E-CDEF-48C1-91B5-19381E89838B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC41D5E-CDEF-48C1-91B5-19381E89838B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC41D5E-CDEF-48C1-91B5-19381E89838B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCCED8C5-7317-461E-B870-E5BAB029BD5B}
+	EndGlobalSection
+EndGlobal
