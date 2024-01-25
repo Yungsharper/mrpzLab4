@@ -106,3 +106,13 @@ foreach (var song in sortedUndefined)
 {
     Console.WriteLine($"Name: {song.Name}, Author: {song.Author}\n--------------------------------------------------------------");
 }
+
+Genre hipHop = new Genre("Hip Hop");
+Genre electronic = new Genre("Electronic");
+List<Song> sortedHipHop = musicLibrary.GetSongsForGenreSortedByNameDescending(hipHop);
+Console.WriteLine("\nSorted songs by Hip Hop:\n--------------------------------------------------------------");
+
+foreach (var song in sortedHipHop)
+{
+    Console.WriteLine($"Name: {song.Name}, Author: {song.Author}\n--------------------------------------------------------------");
+}
